@@ -6,7 +6,9 @@
       "name": "yaos-ui",
       "dependencies": {
         "@base-ui/react": "^1.0.0",
+        "@radix-ui/react-tabs": "^1.1.13",
         "class-variance-authority": "^0.7.1",
+        "clsx": "^2.1.1",
         "fumadocs-core": "16.4.2",
         "fumadocs-mdx": "14.2.4",
         "fumadocs-ui": "16.4.2",
@@ -14,6 +16,7 @@
         "next": "16.1.1",
         "react": "^19.2.3",
         "react-dom": "^19.2.3",
+        "tailwind-merge": "^3.4.0",
       },
       "devDependencies": {
         "@tailwindcss/postcss": "^4.1.18",
